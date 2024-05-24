@@ -1,1 +1,1 @@
-# Automatic-Machine-Learning-with-H2O-AutoML-and-Python
+# Automatic-Machine-Learning-with-AutoML-and-Python
